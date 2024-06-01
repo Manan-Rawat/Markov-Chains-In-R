@@ -1,4 +1,4 @@
-<h1 align="center">Regression</h1>
+<h1 align="center">Markoc Chains and Its Algorithmic Applications</h1>
 <h3 align="center">Manan Rawat</h3>
 <h3 align="center">Semester Research Project</h3>
 <h3 align="center">Prof. S.G. Dani, UM-DAE CEBS</h3>
